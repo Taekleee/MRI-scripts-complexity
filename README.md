@@ -1,4 +1,4 @@
-# Tesis-modificada
+# Tesis
 ## Scripts: 
 
 [Mapas promedio sanos](https://github.com/Taekleee/Tesis-modificada/blob/main/Promedio-mapas-sanos.R): Calcula el mapa promedio de todos los sujetos que se encuentran ubicados en la carpeta especificada en files.
